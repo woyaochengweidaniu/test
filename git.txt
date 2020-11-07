@@ -28,5 +28,6 @@ git remote remove origin   解除远程关联
 
 git clone git@github.com:woyaochengweidaniu/gitskill.git      从远程仓库克隆
 
-git tian jia 
+
+
 
