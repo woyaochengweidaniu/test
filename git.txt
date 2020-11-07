@@ -1,0 +1,16 @@
+git init   初始化一个git仓库
+
+git status  查看修改的文件
+
+git add  <文件>       将文件添加到暂存区
+
+git commit -m ""   将文件提交到git
+
+git log   查看提交的日志
+
+git reflog  查看历史的git命令
+
+git remote add origin git@github.com:woyaochengweidaniu/test.git        关联远程仓库test
+
+git remote remove origin   解除远程关联
+
