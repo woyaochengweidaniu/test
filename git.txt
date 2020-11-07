@@ -28,6 +28,16 @@ git remote remove origin   解除远程关联
 
 git clone git@github.com:woyaochengweidaniu/gitskill.git      从远程仓库克隆
 
+git branch   查看分支
+
+git barnch  <分支名字>  创建分支
+
+git checkout <分支名字> 切换到分支
+
+git merge <dev>  dev分支与当前进行合并
+
+
+
 
 
 
