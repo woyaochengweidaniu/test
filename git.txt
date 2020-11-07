@@ -36,6 +36,8 @@ git checkout <分支名字> 切换到分支
 
 git merge <dev>  dev分支与当前进行合并
 
+git stash   保存现场工作空间
+
 
 
 
