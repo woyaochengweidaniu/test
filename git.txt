@@ -14,3 +14,5 @@ git remote add origin git@github.com:woyaochengweidaniu/test.git        关联远程
 
 git remote remove origin   解除远程关联
 
+git  dev
+
